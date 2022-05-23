@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MySiteReact/static/css/main.51db9d4d.css",
+    "main.js": "/MySiteReact/static/js/main.af5ae5a6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MySiteReact/static/js/787.28cb0dcd.chunk.js",
+    "static/media/designer1.png": "/MySiteReact/static/media/designer1.03dba3b9db044708d0fd.png",
+    "static/media/proger1.png": "/MySiteReact/static/media/proger1.6be0abfb841454a46330.png",
+    "static/media/img3.png": "/MySiteReact/static/media/img3.9b609bf72c4cbc1a4060.png",
+    "static/media/img4.png": "/MySiteReact/static/media/img4.5f0d50743f090f1d7095.png",
+    "static/media/img1.png": "/MySiteReact/static/media/img1.b35f01cc191954baa5bb.png",
+    "static/media/img2.png": "/MySiteReact/static/media/img2.7539be4915523a9929f6.png",
+    "index.html": "/MySiteReact/index.html",
+    "main.51db9d4d.css.map": "/MySiteReact/static/css/main.51db9d4d.css.map",
+    "main.af5ae5a6.js.map": "/MySiteReact/static/js/main.af5ae5a6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MySiteReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51db9d4d.css",
+    "static/js/main.af5ae5a6.js"
+  ]
+}
